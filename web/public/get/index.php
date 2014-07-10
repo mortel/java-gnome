@@ -47,7 +47,7 @@ do so.</p>
 <p>Like most GNOME projects, official releases of java-gnome in tarball form
 are hosted on the <code>ftp.gnome.org</code> servers. You can download the
 latest release from
-<a class="nav-black"
+<a class="nav-white"
 href="http://ftp.gnome.org/pub/gnome/sources/java-gnome/4.1/">
 <pre style="margin-left: 0px;">http://ftp.gnome.org/pub/gnome/sources/java-gnome/4.1/</pre></a>
 </p>
@@ -58,7 +58,7 @@ href="http://ftp.gnome.org/pub/gnome/sources/java-gnome/4.1/">
 code from our version control repository (branch URL below). You'll need to install Bazaar,
 available in most Linux and Unix distributions.
 
-<a class="nav-black"
+<a class="nav-white"
 href="http://research.operationaldynamics.com/bzr/java-gnome/mainline/">
 <pre style="margin-left: 0px;">$ bzr checkout URL</pre></a>
 </p>
