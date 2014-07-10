@@ -27,18 +27,11 @@
 ?>
 <h1 class="title">Installing java-gnome on Fedora Core or RHEL</h1>
 
-<p><span class="highlight">
-TODO: This will work once someone actually packages java-gnome 4.0 for Fedora
-</span></p>
-
 <p>java-gnome is part of the official GNOME language bindings suite, and as
 such should be present in any recent Red Hat Linux system.</p>
 
 <p>The following command will install the latest released version of the
 bindings library:
-
-<p><span class="highlight">FIXME</span> <i>do we need to point people at
-a special package repository?</i></p>
 
 <pre>
 # yum install java-gnome
